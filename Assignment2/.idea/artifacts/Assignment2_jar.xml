@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assignment2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment2_jar</output-path>
+    <root id="archive" name="Assignment2.jar">
+      <element id="module-output" name="Assignment2" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jogamp-all-platforms/jar/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jogamp-all-platforms/jar/gluegen-rt.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/bricks.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/grass.bmp" />
+      <element id="file-copy" path="$PROJECT_DIR$/kittens.jpg" />
+      <element id="file-copy" path="$PROJECT_DIR$/rock.bmp" />
+      <element id="file-copy" path="$PROJECT_DIR$/test.json" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/Avatar.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/Camera.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/Game.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/LevelIO.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/MyTexture.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/README" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/Road.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/Terrain.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/Tree.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ass2/spec/VBO_task.java" />
+    </root>
+  </artifact>
+</component>

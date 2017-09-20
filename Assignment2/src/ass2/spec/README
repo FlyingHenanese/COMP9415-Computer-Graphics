@@ -1,0 +1,7 @@
+Extensions:
+
+Avatar could move with key pressed: Terrain.java, Avatar.java
+
+Road could follow the terrain: Road.java
+
+Night mode set in Terrain.java but not successed as we didn't use shader for model building, models has self light source
